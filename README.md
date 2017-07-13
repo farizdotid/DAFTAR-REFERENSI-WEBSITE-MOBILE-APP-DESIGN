@@ -6,6 +6,10 @@ Berisi list website yang menyediakan referensi untuk kebutuhan design mobile app
 | Nama Website        | URL | 
 | ------------- |:----------:|
 | Mobile Design Inspiration      | [Link](https://inspirationmobile.tumblr.com/) |  
+| MOBILE PATTERNS      | [Link](http://www.mobile-patterns.com/) |  
+| ONE PAGE LOVE      | [Link](https://onepagelove.com/) |
+| Mobile Mozaic      | [Link](http://www.mobilemozaic.com/) |  
+| UI Movement      | [Link](https://uimovement.com/) |  
 
 
 ## Kontak
