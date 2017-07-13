@@ -10,7 +10,22 @@ Berisi list website yang menyediakan referensi untuk kebutuhan design mobile app
 | ONE PAGE LOVE      | [Link](https://onepagelove.com/) |
 | Mobile Mozaic      | [Link](http://www.mobilemozaic.com/) |  
 | UI Movement      | [Link](https://uimovement.com/) |  
-
+| UP Labs      | [Link](https://www.uplabs.com/material) |  
+| Inspired UI      | [Link](http://inspired-ui.com/) |  
+| A UX      | [Link](http://androidux.com/) |  
+| Collect UI      | [Link](http://collectui.com/) |  
+| iOS Fonts     | [Link](http://iosfonts.com/) |  
+| UI Parade     | [Link](http://www.uiparade.com/) |  
+| UI Resource     | [Link](http://uiresource.com/) |
+| Lovely UI     | [Link](http://www.lovelyui.com/) |
+| Freebiesbug     | [Link](https://freebiesbug.com/) |
+| Dribbble     | [Link](https://dribbble.com/) |
+| UI Garage     | [Link](http://uigarage.net/) |
+| Ultra UI     | [Link](http://ui.theultralinx.com/) |
+| Tethr     | [Link](https://www.invisionapp.com/tethr) |
+| Pttrns     | [Link](https://pttrns.com/) |
+| Muzli     | [Link](https://medium.muz.li/?gi=85a3addc3698) |
+| Color Farm     | [Link](http://color.farm/) |
 
 ## Kontak
 
