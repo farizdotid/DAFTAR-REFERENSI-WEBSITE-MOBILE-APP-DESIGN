@@ -1,5 +1,5 @@
 # DAFTAR-REFERENSI-MOBILE-APP-DESIGN
-Berisi list website yang menyediakan referensi untuk kebutuhan design mobile app.
+Berisi list website yang menyediakan referensi untuk kebutuhan design mobile app. Terimakasih untuk agan [Dan Bo Ru](https://www.facebook.com/profile.php?id=100001794518762) untuk mengshare list-list website ini.
 
 ## Daftar Website
 
