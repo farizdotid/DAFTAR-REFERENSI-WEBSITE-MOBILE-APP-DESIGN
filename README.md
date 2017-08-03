@@ -26,6 +26,7 @@ Berisi list website yang menyediakan referensi untuk kebutuhan design mobile app
 | Pttrns     | [Link](https://pttrns.com/) |
 | Muzli     | [Link](https://medium.muz.li/?gi=85a3addc3698) |
 | Color Farm     | [Link](http://color.farm/) |
+| Material Pattern     | [Link](https://www.materialpalette.com/) |
 
 ## Kontak
 
